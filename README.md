@@ -7,7 +7,10 @@
   * Technologies:  scikit-learn, numpy, pandas, matplotlib
 * Platform for handling genetic testing: [link](https://github.com/pzsp2-23z-z10/adnotacja)
   * Group project, enables analysis of DNA mutation variants using existing algorithms, the goal was easy scalability and acceleration of slow calculations
-  * Technologies: Javascript, mongodb  
+  * Technologies: Javascript, mongodb
+* Surrogate model of the objective function for the CMA-ES algorithm: [link](https://github.com/TFedir/cma-es-surrogate-model)
+  * Attempt to implement a surrogate model to minimize the number of calls of the target function.
+  * Technologies: scikit-learn, matplotlib  
 * Subject management system "USUS": [link](https://github.com/TFedir/USUS)
   * Technologies: Java (Spring boot, Thymleaf), LDAP, Docker
 * Parking simulation: [link](https://github.com/TFedir/parking-simulation)

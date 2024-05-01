@@ -7,7 +7,7 @@
 * Parking simulation: [link](https://github.com/TFedir/parking-simulation)
   * Technologies: C++
 * Different credit projects for subjects:
-  * Order and Chaos board game in Python: [link](https://github.com/TFedir/order-and-chaos)
-  * Introduction to AI: [link](https://github.com/TFedir/WSI)
-  * Network programming: [link](https://github.com/TFedir/PSI)
-  * Algorithms and data structures: [link](https://github.com/TFedir/AISDI)
+  * Order and Chaos board game (Python): [link](https://github.com/TFedir/order-and-chaos)
+  * Introduction to AI (Python): [link](https://github.com/TFedir/WSI)
+  * Network programming (C, Python): [link](https://github.com/TFedir/PSI)
+  * Algorithms and data structures (Python): [link](https://github.com/TFedir/AISDI)
